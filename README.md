@@ -15,3 +15,10 @@ Composer!
 1. Generate [XML Code Coverage](https://phpunit.de/manual/current/en/logging.html#logging.codecoverage.xml) using [PHPUnit](https://phpunit.de/manual/current/en/appendixes.configuration.html#appendixes.configuration.logging)
 1. Run `vendor/bin/php-coverage-checker /path/to/clover.xml <minimum coverage percentage>`
     * e.g. `vendor/bin/php-coverage-checker build/clover.xml 100`
+
+## Output
+
+```
+/home/runner/work/php-skelleton/php-skelleton/src/Test.php 100%
+Code coverage is 100% - OK!
+```
