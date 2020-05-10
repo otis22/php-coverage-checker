@@ -3,7 +3,7 @@
     "description": "Automated code coverage percentage checking",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/otis22/PhpCoverageChecker",
+    "homepage": "https://github.com/otis22/php-coverage-checker",
     "authors": [
         {
             "name": "Vladimir Romanichev",
