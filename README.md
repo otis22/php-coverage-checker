@@ -1,6 +1,6 @@
 # php-coverage-checker
 
-php-coverage-checker is a library for automated code coverage percentage checking.
+php-coverage-checker is a library for automated code coverage percentage checking with output coverage per file.
 
 Initial commit is 100% the work of [Ocramius](https://github.com/ocramius): https://ocramius.github.io/blog/automated-code-coverage-check-for-github-pull-requests-with-travis/
 
@@ -8,7 +8,7 @@ Initial commit is 100% the work of [Ocramius](https://github.com/ocramius): http
 
 Composer!
 
-`composer require --dev michaelmoussa/php-coverage-checker`
+`composer require --dev otis22/php-coverage-checker`
 
 ## Usage
 
